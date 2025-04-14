@@ -15,4 +15,3 @@ Este repositório contém a estrutura básica para o desenvolvimento do projeto 
 
 Andreza dos Santos Rodrigues de Melo
 
-Este projeto foi desenvolvido individualmente, utilizando nomes de colegas como exemplo de estrutura exigida em disciplina anterior.
