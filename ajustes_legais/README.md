@@ -7,7 +7,7 @@ Este repositório contém a estrutura básica para o desenvolvimento do projeto 
 
 - `data/pontos_entrada.csv`: dados de entrada com coordenadas conhecidas
 - `notebooks/`: notebooks individuais com problemas resolvidos
-- `src/ajuste_qualidade.py`: script com funções auxiliares de ajuste
+- `src/andreza_exercicio_avaliativo.py`: script com funções auxiliares de ajuste
 - `README.md`: informações gerais do projeto
 - `.gitignore`: arquivos a serem ignorados pelo Git
 
