@@ -5,7 +5,7 @@ Este repositório contém a estrutura básica para o desenvolvimento do projeto 
 
 ## Estrutura
 
-- `data/pontos_entrada.csv`: dados de entrada com coordenadas conhecidas
+- `data/dados_ajuste.csv`: dados de entrada com coordenadas conhecidas
 - `notebooks/`: notebooks individuais com problemas resolvidos
 - `src/andreza_exercicio_avaliativo.py`: script com funções auxiliares de ajuste
 - `README.md`: informações gerais do projeto
