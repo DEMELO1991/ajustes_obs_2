@@ -44,17 +44,15 @@ Baseado na sequência de indagações apresentadas acima, tem-se que:
 
 import pandas as pd
 
-dados = {
-    "index": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
-    "x": [-2.5092, 9.0143, 4.6399, 1.9732, -6.8796, -6.8801, -8.8383, 7.3235, 2.0223, 4.1615],
-    "y": [-9.5883, 9.3982, 6.6489, -5.7532, -6.3635, -6.3319, -3.9152, 0.4951, -1.3611, -4.1754],
-    "rho_observed": [-9.5671, 13.3339, 7.0744, -4.0852, -7.8986, -9.5681, -8.9506, 4.1038, -0.0768, 0.1011],
-    "variance": [1.1075, 0.6705, 0.5651, 1.4489, 1.4656, 1.3084, 0.8046, 0.5977, 1.1842, 0.9402]
-}
+# URL bruta do CSV hospedado no GitHub
+url = "https://raw.githubusercontent.com/DEMELO1991/ajustes_obs_2/main/ajuste_legais/data/dados_ajuste.csv"
 
-df = pd.DataFrame(dados)
+# Carregar o DataFrame a partir do CSV online
+df = pd.read_csv(url)
 
+# Visualizar o DataFrame
 display(df)
+
 
 """Os **parâmetros a serem determinados** no modelo são:
 
