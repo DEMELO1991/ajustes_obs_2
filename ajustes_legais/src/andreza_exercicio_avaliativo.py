@@ -44,8 +44,8 @@ Baseado na sequência de indagações apresentadas acima, tem-se que:
 
 import pandas as pd
 
-# URL bruta do CSV hospedado no GitHub
-url = "https://raw.githubusercontent.com/DEMELO1991/ajustes_obs_2/main/ajuste_legais/data/dados_ajuste.csv"
+# URL correta para o CSV no seu GitHub
+url = "https://raw.githubusercontent.com/DEMELO1991/ajustes_obs_2/main/ajustes_legais/data/dados_ajuste.csv"
 
 # Carregar o DataFrame a partir do CSV online
 df = pd.read_csv(url)
