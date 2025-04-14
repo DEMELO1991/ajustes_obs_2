@@ -16,6 +16,9 @@ Este repositório contém a estrutura básica para o desenvolvimento do projeto 
 - `README.md`: informações gerais do projeto
 - `.gitignore`: arquivos a serem ignorados pelo Git
 
+  ## OBS
+  Na pasta tamém contém uma apresentação .pdf sobre controle de qualidade
+
 ## Autora
 
 Aluna: Andreza dos Santos Rodrigues de Melo
